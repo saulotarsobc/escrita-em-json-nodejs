@@ -1,8 +1,1 @@
-{
-    "nome": "costa",
-    "idade": 30,
-    "cidade": {
-        "nome": "Santarem",
-        "habitantes": 900000
-    }
-}
+{"nome":"costa","idade":"29","cidade":{"nome":"Santarem","habitantes":900000}}
